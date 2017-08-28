@@ -7,8 +7,8 @@ Sentiment Analysis Project
 4. raw_review.txt -> This file contains the raw reviews without numbers or punctuation removed. It is delimited by ";\n" because a single delimiter will not work given the nature of the contents of the reviews.
 
 Notes:
-124,310 Reviews -> All blank reviews removed even if a star rating was given.
-60/20/20 split = 74,586/24,862/24,862
-50/25/25 split = 62,155/31,077.5/31,077.5 - you can remove one review or add a review to even this out
-80/20 split = 99,448/24,862
-90/10 split = 111,879/12,431
+124,309 Reviews -> All blank reviews removed even if a star rating was given.
+60/20/20 split = 74,585/24,862/24,862
+50/25/25 split = 62,155/31,077/31,077
+80/20 split = 99,448/24,861
+90/10 split = 111,879/12,430
