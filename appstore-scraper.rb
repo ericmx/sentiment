@@ -14,6 +14,7 @@ software = {
   # 'BoA' => 284847138,
   # 'Wells' => 311548709,
   # 'Huntington' => 441599004,
+    'Nationwide' => 311627534
 }
 
 stores = [
